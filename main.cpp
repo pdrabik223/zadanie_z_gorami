@@ -31,7 +31,7 @@ for(int i=0;i<number_of_tests;i++) {
     } while (--second_table_size);
 
 
-    std::cout << hash_table_based_approach(tab1, tab2);
+    std::cout << hash_table_based_approach(tab1, tab2)<<std::endl;
     tab1.clear();
     tab2.clear();
 }
