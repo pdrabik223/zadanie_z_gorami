@@ -28,8 +28,8 @@ void create_table(std::vector<int> &first_table, std::vector<int> &second_table,
 
 // do :
 #define DEBUG false
-#define TESTS false
-#define RELEASE true
+#define TESTS true
+#define RELEASE false
 
 
 int main() {
