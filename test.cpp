@@ -3,5 +3,5 @@
 //
 #include <vector>
 #include <iostream>
-extern unsigned hash_table_based_approach_but_better(std::vector<int> &first_array, std::vector<int> &second_array);
+extern unsigned hash_table_based_approach(std::vector<int> &first_array, std::vector<int> &second_array);
 
